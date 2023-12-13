@@ -1,0 +1,5 @@
+MS006,Sakura,LS001,abc,1/2/2022,a bc,0,10
+MS004,One Piece,LS004,Nguyen Van D,11/12/2022,Day la sach truyen tranh,0,10
+MS003,Sugoku,LS003,Nguyen Van C,11/12/2022,Day la sach truyen tranh,0,10
+MS002,Conan,LS002,Nguyen Van B,11/12/2022,Day la sach truyen tranh,0,10
+MS001,Doreamon,LS001,Nguyen Van A,12/12/2022,Day la sach truyen tranh,0,1
